@@ -1,0 +1,594 @@
+[
+  {
+    "title": "The Legend of Zelda: Breath of the Wild",
+    "developer": "Nintendo EPD",
+    "release_year": 2017,
+    "platforms": "Nintendo Switch, Wii U",
+    "genre": "Action-adventure",
+    "description": "An open-world game where Link explores the ruined kingdom of Hyrule and can climb almost anything."
+  },
+  {
+    "title": "Minecraft",
+    "developer": "Mojang",
+    "release_year": 2011,
+    "platforms": "PC, consoles, mobile",
+    "genre": "Sandbox",
+    "description": "A block-building game where you gather resources, craft tools and survive or build freely."
+  },
+  {
+    "title": "Hollow Knight",
+    "developer": "Team Cherry",
+    "release_year": 2017,
+    "platforms": "PC, consoles",
+    "genre": "Metroidvania",
+    "description": "A hand-drawn adventure through the underground insect kingdom of Hallownest, known for tough bosses."
+  },
+  {
+    "title": "Stardew Valley",
+    "developer": "ConcernedApe",
+    "release_year": 2016,
+    "platforms": "PC, consoles, mobile",
+    "genre": "Farming simulation",
+    "description": "You inherit a farm, grow crops, raise animals and make friends in a small town."
+  },
+  {
+    "title": "Celeste",
+    "developer": "Maddy Makes Games",
+    "release_year": 2018,
+    "platforms": "PC, consoles",
+    "genre": "Platformer",
+    "description": "A precision platformer about climbing a mountain, with a story about anxiety and self-belief."
+  },
+  {
+    "title": "Portal 2",
+    "developer": "Valve",
+    "release_year": 2011,
+    "platforms": "PC, consoles",
+    "genre": "Puzzle",
+    "description": "A puzzle game about using a portal gun to solve test chambers, with a co-op mode."
+  },
+  {
+    "title": "The Witcher 3: Wild Hunt",
+    "developer": "CD Projekt Red",
+    "release_year": 2015,
+    "platforms": "PC, consoles",
+    "genre": "Action RPG",
+    "description": "You play Geralt of Rivia, a monster hunter searching for his adopted daughter in a large open world."
+  },
+  {
+    "title": "Elden Ring",
+    "developer": "FromSoftware",
+    "release_year": 2022,
+    "platforms": "PC, consoles",
+    "genre": "Action RPG",
+    "description": "A challenging open-world RPG made with author George R. R. Martin, set in the Lands Between."
+  },
+  {
+    "title": "Super Mario Odyssey",
+    "developer": "Nintendo EPD",
+    "release_year": 2017,
+    "platforms": "Nintendo Switch",
+    "genre": "3D platformer",
+    "description": "Mario travels between kingdoms with his living cap Cappy, who lets him capture enemies and objects."
+  },
+  {
+    "title": "Hades",
+    "developer": "Supergiant Games",
+    "release_year": 2020,
+    "platforms": "PC, consoles",
+    "genre": "Roguelike action",
+    "description": "You play Zagreus, prince of the Underworld, trying to escape again and again with new weapons and boons."
+  },
+  {
+    "title": "Undertale",
+    "developer": "Toby Fox",
+    "release_year": 2015,
+    "platforms": "PC, consoles",
+    "genre": "RPG",
+    "description": "A quirky RPG where you can finish the game without defeating any monsters."
+  },
+  {
+    "title": "Red Dead Redemption 2",
+    "developer": "Rockstar Games",
+    "release_year": 2018,
+    "platforms": "PC, PlayStation 4, Xbox One",
+    "genre": "Open-world action-adventure",
+    "description": "A western story about outlaw Arthur Morgan and the Van der Linde gang."
+  },
+  {
+    "title": "God of War (2018)",
+    "developer": "Santa Monica Studio",
+    "release_year": 2018,
+    "platforms": "PlayStation 4, PC",
+    "genre": "Action-adventure",
+    "description": "Kratos and his son Atreus travel through the world of Norse mythology."
+  },
+  {
+    "title": "Dark Souls",
+    "developer": "FromSoftware",
+    "release_year": 2011,
+    "platforms": "PC, consoles",
+    "genre": "Action RPG",
+    "description": "A famously difficult RPG with deadly enemies, bonfires and a dark fantasy world."
+  },
+  {
+    "title": "Among Us",
+    "developer": "Innersloth",
+    "release_year": 2018,
+    "platforms": "PC, mobile, consoles",
+    "genre": "Social deduction",
+    "description": "Crewmates complete tasks on a spaceship while hidden impostors try to sabotage them."
+  },
+  {
+    "title": "Fortnite",
+    "developer": "Epic Games",
+    "release_year": 2017,
+    "platforms": "PC, consoles, mobile",
+    "genre": "Battle royale",
+    "description": "A free-to-play game where 100 players fight to be the last one standing, with building mechanics."
+  },
+  {
+    "title": "Overwatch",
+    "developer": "Blizzard Entertainment",
+    "release_year": 2016,
+    "platforms": "PC, consoles",
+    "genre": "Hero shooter",
+    "description": "A team-based shooter with a cast of heroes, each with their own abilities."
+  },
+  {
+    "title": "The Legend of Zelda: Ocarina of Time",
+    "developer": "Nintendo EAD",
+    "release_year": 1998,
+    "platforms": "Nintendo 64",
+    "genre": "Action-adventure",
+    "description": "Link travels through time with an ocarina to stop Ganondorf. It is often listed among the best games ever made."
+  },
+  {
+    "title": "Pokemon Red and Blue",
+    "developer": "Game Freak",
+    "release_year": 1996,
+    "platforms": "Game Boy",
+    "genre": "RPG",
+    "description": "The first Pokemon games, where you catch, train and battle creatures. The year is the Japanese release; the Western release was in 1998."
+  },
+  {
+    "title": "Tetris",
+    "developer": "Alexey Pajitnov",
+    "release_year": 1984,
+    "platforms": "Many platforms",
+    "genre": "Puzzle",
+    "description": "A classic puzzle game where you rotate falling blocks to complete lines."
+  },
+  {
+    "title": "Cyberpunk 2077",
+    "developer": "CD Projekt Red",
+    "release_year": 2020,
+    "platforms": "PC, consoles",
+    "genre": "Action RPG",
+    "description": "You play V, a mercenary in the futuristic Night City."
+  },
+  {
+    "title": "Animal Crossing: New Horizons",
+    "developer": "Nintendo",
+    "release_year": 2020,
+    "platforms": "Nintendo Switch",
+    "genre": "Life simulation",
+    "description": "You build a community on a deserted island, with villagers, crafting and seasonal events."
+  },
+  {
+    "title": "Terraria",
+    "developer": "Re-Logic",
+    "release_year": 2011,
+    "platforms": "PC, consoles, mobile",
+    "genre": "2D sandbox adventure",
+    "description": "A 2D game of digging, building, crafting and fighting bosses."
+  },
+  {
+    "title": "Hogwarts Legacy",
+    "developer": "Avalanche Software",
+    "release_year": 2023,
+    "platforms": "PC, consoles",
+    "genre": "Open-world action RPG",
+    "description": "You are a student at Hogwarts in the 1800s, learning spells and exploring the wizarding world."
+  },
+  {
+    "title": "Baldur's Gate 3",
+    "developer": "Larian Studios",
+    "release_year": 2023,
+    "platforms": "PC, PlayStation 5",
+    "genre": "Turn-based RPG",
+    "description": "A story-rich RPG based on Dungeons & Dragons rules, with a large choice-driven campaign and co-op."
+  },
+  {
+    "title": "Rocket League",
+    "developer": "Psyonix",
+    "release_year": 2015,
+    "platforms": "PC, consoles",
+    "genre": "Sports",
+    "description": "Soccer played with rocket-powered cars."
+  },
+  {
+    "title": "Grand Theft Auto V",
+    "developer": "Rockstar North",
+    "release_year": 2013,
+    "platforms": "PC, consoles",
+    "genre": "Open-world action-adventure",
+    "description": "Three protagonists carry out heists and crimes in the city of Los Santos, with a large online mode."
+  },
+  {
+    "title": "The Elder Scrolls V: Skyrim",
+    "developer": "Bethesda Game Studios",
+    "release_year": 2011,
+    "platforms": "PC, consoles",
+    "genre": "Open-world RPG",
+    "description": "You are the Dragonborn, who can absorb the powers of dragons in the snowy land of Skyrim."
+  },
+  {
+    "title": "Half-Life 2",
+    "developer": "Valve",
+    "release_year": 2004,
+    "platforms": "PC",
+    "genre": "First-person shooter",
+    "description": "Gordon Freeman fights an alien occupation in City 17, using a gravity gun and physics puzzles."
+  },
+  {
+    "title": "Mass Effect 2",
+    "developer": "BioWare",
+    "release_year": 2010,
+    "platforms": "PC, Xbox 360, PlayStation 3",
+    "genre": "Action RPG",
+    "description": "Commander Shepard builds a team of specialists for a dangerous mission through the galaxy."
+  },
+  {
+    "title": "BioShock",
+    "developer": "2K Boston (later Irrational Games)",
+    "release_year": 2007,
+    "platforms": "PC, consoles",
+    "genre": "First-person shooter",
+    "description": "You explore the underwater city of Rapture, a failed utopia full of mutated citizens."
+  },
+  {
+    "title": "Super Smash Bros. Ultimate",
+    "developer": "Bandai Namco Studios and Sora Ltd.",
+    "release_year": 2018,
+    "platforms": "Nintendo Switch",
+    "genre": "Platform fighter",
+    "description": "A crossover fighting game that includes every fighter from the series' history."
+  },
+  {
+    "title": "Mario Kart 8 Deluxe",
+    "developer": "Nintendo EPD",
+    "release_year": 2017,
+    "platforms": "Nintendo Switch",
+    "genre": "Kart racing",
+    "description": "Mario characters race on colorful tracks, using items to slow down rivals."
+  },
+  {
+    "title": "Splatoon 3",
+    "developer": "Nintendo EPD",
+    "release_year": 2022,
+    "platforms": "Nintendo Switch",
+    "genre": "Team shooter",
+    "description": "Teams of Inklings and Octolings cover the map in ink in colorful online battles."
+  },
+  {
+    "title": "Metroid Dread",
+    "developer": "MercurySteam and Nintendo EPD",
+    "release_year": 2021,
+    "platforms": "Nintendo Switch",
+    "genre": "Metroidvania",
+    "description": "Samus Aran explores a hostile planet while being hunted by deadly robots called E.M.M.I."
+  },
+  {
+    "title": "The Last of Us",
+    "developer": "Naughty Dog",
+    "release_year": 2013,
+    "platforms": "PlayStation 3",
+    "genre": "Action-adventure",
+    "description": "Joel and Ellie travel across a post-apocalyptic United States in an emotional survival story."
+  },
+  {
+    "title": "Uncharted 4: A Thief's End",
+    "developer": "Naughty Dog",
+    "release_year": 2016,
+    "platforms": "PlayStation 4",
+    "genre": "Action-adventure",
+    "description": "Treasure hunter Nathan Drake returns for a final adventure with his brother Sam."
+  },
+  {
+    "title": "Bloodborne",
+    "developer": "FromSoftware",
+    "release_year": 2015,
+    "platforms": "PlayStation 4",
+    "genre": "Action RPG",
+    "description": "A gothic horror game set in the nightmarish city of Yharnam, with fast, aggressive combat."
+  },
+  {
+    "title": "Sekiro: Shadows Die Twice",
+    "developer": "FromSoftware",
+    "release_year": 2019,
+    "platforms": "PC, consoles",
+    "genre": "Action-adventure",
+    "description": "You play a shinobi in a fictional Sengoku-era Japan, with sword fights focused on timing and posture."
+  },
+  {
+    "title": "Persona 5",
+    "developer": "Atlus",
+    "release_year": 2016,
+    "platforms": "PlayStation 3, PlayStation 4",
+    "genre": "JRPG",
+    "description": "Students called the Phantom Thieves steal the hearts of corrupt adults while living their daily school life."
+  },
+  {
+    "title": "Final Fantasy VII",
+    "developer": "Square",
+    "release_year": 1997,
+    "platforms": "PlayStation, PC",
+    "genre": "JRPG",
+    "description": "Cloud Strife joins the rebel group Avalanche to fight the powerful Shinra company and the villain Sephiroth."
+  },
+  {
+    "title": "Chrono Trigger",
+    "developer": "Square",
+    "release_year": 1995,
+    "platforms": "Super Nintendo",
+    "genre": "JRPG",
+    "description": "A group of heroes travels through different eras of time to stop a catastrophe."
+  },
+  {
+    "title": "Super Mario Bros.",
+    "developer": "Nintendo",
+    "release_year": 1985,
+    "platforms": "Nintendo Entertainment System",
+    "genre": "2D platformer",
+    "description": "Mario runs and jumps through the Mushroom Kingdom to rescue Princess Peach from Bowser."
+  },
+  {
+    "title": "Sonic the Hedgehog",
+    "developer": "Sega (Sonic Team)",
+    "release_year": 1991,
+    "platforms": "Sega Mega Drive / Genesis",
+    "genre": "Platformer",
+    "description": "A fast blue hedgehog runs through loops and stages to stop Dr. Robotnik."
+  },
+  {
+    "title": "Pac-Man",
+    "developer": "Namco",
+    "release_year": 1980,
+    "platforms": "Arcade",
+    "genre": "Maze arcade",
+    "description": "You guide Pac-Man through a maze to eat dots while avoiding four ghosts."
+  },
+  {
+    "title": "Doom",
+    "developer": "id Software",
+    "release_year": 1993,
+    "platforms": "PC",
+    "genre": "First-person shooter",
+    "description": "A fast shooter where you fight demons from Hell on Mars, and a pioneer of the genre."
+  },
+  {
+    "title": "Counter-Strike 2",
+    "developer": "Valve",
+    "release_year": 2023,
+    "platforms": "PC",
+    "genre": "Tactical first-person shooter",
+    "description": "Two teams, terrorists and counter-terrorists, play short rounds of bomb planting and defusing."
+  },
+  {
+    "title": "League of Legends",
+    "developer": "Riot Games",
+    "release_year": 2009,
+    "platforms": "PC",
+    "genre": "MOBA",
+    "description": "Two teams of five champions fight to destroy the enemy base, called the Nexus."
+  },
+  {
+    "title": "Dota 2",
+    "developer": "Valve",
+    "release_year": 2013,
+    "platforms": "PC",
+    "genre": "MOBA",
+    "description": "Two teams of five heroes compete to destroy each other's Ancient. It is known for its huge esports tournaments."
+  },
+  {
+    "title": "World of Warcraft",
+    "developer": "Blizzard Entertainment",
+    "release_year": 2004,
+    "platforms": "PC",
+    "genre": "MMORPG",
+    "description": "A huge online fantasy world where players explore, level up and take on dungeons and raids together."
+  },
+  {
+    "title": "Valorant",
+    "developer": "Riot Games",
+    "release_year": 2020,
+    "platforms": "PC",
+    "genre": "Tactical hero shooter",
+    "description": "Teams of five use agents with special abilities to plant or defuse a bomb."
+  },
+  {
+    "title": "Apex Legends",
+    "developer": "Respawn Entertainment",
+    "release_year": 2019,
+    "platforms": "PC, consoles",
+    "genre": "Battle royale hero shooter",
+    "description": "Squads of three choose a character with unique abilities and fight to be the last team standing."
+  },
+  {
+    "title": "Dead Cells",
+    "developer": "Motion Twin",
+    "release_year": 2018,
+    "platforms": "PC, consoles, mobile",
+    "genre": "Roguelite metroidvania",
+    "description": "You fight through a changing castle with fast combat, and every death starts a new run."
+  },
+  {
+    "title": "Cuphead",
+    "developer": "Studio MDHR",
+    "release_year": 2017,
+    "platforms": "PC, consoles",
+    "genre": "Run and gun",
+    "description": "A very hard game with boss fights, drawn in the style of 1930s cartoons."
+  },
+  {
+    "title": "Ori and the Blind Forest",
+    "developer": "Moon Studios",
+    "release_year": 2015,
+    "platforms": "Xbox One, PC, Nintendo Switch",
+    "genre": "Metroidvania",
+    "description": "A beautiful platformer about a small guardian spirit named Ori who tries to save a dying forest."
+  },
+  {
+    "title": "Disco Elysium",
+    "developer": "ZA/UM",
+    "release_year": 2019,
+    "platforms": "PC, consoles",
+    "genre": "Detective RPG",
+    "description": "A detective with amnesia solves a murder through dialogue and skill checks, with no traditional combat."
+  },
+  {
+    "title": "Outer Wilds",
+    "developer": "Mobius Digital",
+    "release_year": 2019,
+    "platforms": "PC, consoles",
+    "genre": "Exploration mystery",
+    "description": "You explore a solar system that is stuck in a 22-minute time loop and uncover its secrets."
+  },
+  {
+    "title": "Subnautica",
+    "developer": "Unknown Worlds Entertainment",
+    "release_year": 2018,
+    "platforms": "PC, consoles",
+    "genre": "Survival adventure",
+    "description": "You survive after crashing on an alien ocean planet, building bases and exploring the deep sea."
+  },
+  {
+    "title": "It Takes Two",
+    "developer": "Hazelight Studios",
+    "release_year": 2021,
+    "platforms": "PC, consoles",
+    "genre": "Co-op action-adventure",
+    "description": "A game that can only be played with two players, who control a couple turned into dolls."
+  },
+  {
+    "title": "Journey",
+    "developer": "thatgamecompany",
+    "release_year": 2012,
+    "platforms": "PlayStation 3, PC, PlayStation 4",
+    "genre": "Adventure",
+    "description": "A wordless trip across a desert toward a distant mountain, where you may meet anonymous companions."
+  },
+  {
+    "title": "Limbo",
+    "developer": "Playdead",
+    "release_year": 2010,
+    "platforms": "PC, consoles, mobile",
+    "genre": "Puzzle platformer",
+    "description": "A boy searches for his sister in a dark black-and-white world full of deadly traps."
+  },
+  {
+    "title": "Inside",
+    "developer": "Playdead",
+    "release_year": 2016,
+    "platforms": "PC, consoles",
+    "genre": "Puzzle platformer",
+    "description": "A dark side-scrolling game about a boy in a hostile industrial world, from the makers of Limbo."
+  },
+  {
+    "title": "The Sims 4",
+    "developer": "Maxis",
+    "release_year": 2014,
+    "platforms": "PC, consoles",
+    "genre": "Life simulation",
+    "description": "You create people, build their homes and control their daily lives."
+  },
+  {
+    "title": "Sid Meier's Civilization VI",
+    "developer": "Firaxis Games",
+    "release_year": 2016,
+    "platforms": "PC, consoles, mobile",
+    "genre": "Turn-based strategy",
+    "description": "You lead a civilization from the Stone Age into the future, with cities, science and war."
+  },
+  {
+    "title": "StarCraft II: Wings of Liberty",
+    "developer": "Blizzard Entertainment",
+    "release_year": 2010,
+    "platforms": "PC",
+    "genre": "Real-time strategy",
+    "description": "A sci-fi strategy game with three races: Terran, Zerg and Protoss."
+  },
+  {
+    "title": "Age of Empires II",
+    "developer": "Ensemble Studios",
+    "release_year": 1999,
+    "platforms": "PC",
+    "genre": "Real-time strategy",
+    "description": "You build a medieval civilization, gather resources and fight for control of the map."
+  },
+  {
+    "title": "Forza Horizon 5",
+    "developer": "Playground Games",
+    "release_year": 2021,
+    "platforms": "PC, Xbox",
+    "genre": "Racing",
+    "description": "An open-world racing game set in Mexico with hundreds of cars."
+  },
+  {
+    "title": "Resident Evil 4",
+    "developer": "Capcom",
+    "release_year": 2005,
+    "platforms": "GameCube, PC, consoles",
+    "genre": "Survival horror",
+    "description": "Agent Leon Kennedy travels to a Spanish village to rescue the president's daughter."
+  },
+  {
+    "title": "Silent Hill 2",
+    "developer": "Konami",
+    "release_year": 2001,
+    "platforms": "PlayStation 2, PC",
+    "genre": "Psychological horror",
+    "description": "James Sunderland goes to the foggy town of Silent Hill after receiving a letter from his dead wife."
+  },
+  {
+    "title": "Amnesia: The Dark Descent",
+    "developer": "Frictional Games",
+    "release_year": 2010,
+    "platforms": "PC, consoles",
+    "genre": "Survival horror",
+    "description": "A horror game where you have no weapons and can only hide and run from monsters in a castle."
+  },
+  {
+    "title": "Five Nights at Freddy's",
+    "developer": "Scott Cawthon",
+    "release_year": 2014,
+    "platforms": "PC, consoles, mobile",
+    "genre": "Survival horror",
+    "description": "You watch security cameras as a night guard while animatronic animals try to reach you."
+  },
+  {
+    "title": "Ghost of Tsushima",
+    "developer": "Sucker Punch Productions",
+    "release_year": 2020,
+    "platforms": "PlayStation 4, PlayStation 5, PC",
+    "genre": "Open-world action-adventure",
+    "description": "A samurai defends Tsushima island during the Mongol invasion in 1274."
+  },
+  {
+    "title": "Marvel's Spider-Man",
+    "developer": "Insomniac Games",
+    "release_year": 2018,
+    "platforms": "PlayStation 4, PC",
+    "genre": "Action-adventure",
+    "description": "Peter Parker swings through New York City and fights villains in an open-world story."
+  },
+  {
+    "title": "Horizon Zero Dawn",
+    "developer": "Guerrilla Games",
+    "release_year": 2017,
+    "platforms": "PlayStation 4, PC",
+    "genre": "Action RPG",
+    "description": "Aloy hunts huge machine creatures in a world after the fall of civilization."
+  }
+]
