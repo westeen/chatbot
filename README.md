@@ -1,7 +1,4 @@
-# Pixel: Games Chatbot
-
-A chatbot called Pixel, a cheerful retro gamer who answers questions about video games.
-It answers only from my own games data (`games.json`), so it doesn't make things up.
+# Pixel: Chatbot
 
 ## Technologies
 - Next.js, TypeScript, Tailwind CSS
@@ -15,9 +12,7 @@ It answers only from my own games data (`games.json`), so it doesn't make things
    npm install
 ```
 2. Create a file `.env.local` in the project folder and add your key
-```
 
-```
 3. Start the app:
 ```bash
    npm run dev
