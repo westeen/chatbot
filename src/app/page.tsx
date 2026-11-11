@@ -9,7 +9,7 @@ export default function Home() {
 
   return (
     <main className="max-w-2xl mx-auto p-6">
-      <h1 className="text-2xl font-bold mb-4">Ask Pixel about games 🎮</h1>
+      <h1 className="text-2xl font-bold mb-4">Ask Pixel about games</h1>
 
       <div className="space-y-3 mb-4">
         {messages.map((m) => (
@@ -34,7 +34,7 @@ export default function Home() {
           className="flex-1 border rounded px-3 py-2 text-black"
           value={input}
           onChange={handleInputChange}
-          placeholder="Ask about a game..."
+          placeholder="Ask about game..."
         />
         <button className="bg-blue-600 text-white rounded px-4 py-2" type="submit">
           Send
